@@ -1,0 +1,2 @@
+# environmental_sound_classification_based_on_vision_transformers
+This repository investigates the classification of environmental sounds based on vision transformers
